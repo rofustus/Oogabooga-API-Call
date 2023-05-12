@@ -1,6 +1,6 @@
 # Oogabooga-API-Call
-Speech to text &amp; text to speech api call with Oogabooga API
-this is a super simple C# console program that uses text to speach to interact with oogabooga api
+Speech to text &amp; text to speech api call with Oogabooga API<br />
+this is a super simple C# console program that uses text to speach to interact with oogabooga api<br />
 <br />
 Usage:<br />
 1 Create a C# console program<br />
